@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-family: caveat,cursive;
+  background-color: skyblue;
+}
+img{
+  height: 280px;
+  width: 380px;
+  border-style: solid;
+  border-color:green;
+  border-width:5px;
+}
+p {
+  font-size: 30px;
+}
